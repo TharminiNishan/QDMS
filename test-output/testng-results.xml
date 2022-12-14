@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-13T11:34:30Z" name="Default suite" finished-at="2022-12-13T11:34:32Z" duration-ms="2113">
+    <groups>
+    </groups>
+    <test started-at="2022-12-13T11:34:30Z" name="Default test" finished-at="2022-12-13T11:34:32Z" duration-ms="2113">
+      <class name="QDMS_TestCases.HomePage_Master">
+        <test-method is-config="true" signature="main()[pri:0, instance:QDMS_TestCases.HomePage_Master@248e319b]" started-at="2022-12-13T11:34:24Z" name="main" finished-at="2022-12-13T11:34:30Z" duration-ms="5430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="Login_Functionality()[pri:0, instance:QDMS_TestCases.HomePage_Master@248e319b]" started-at="2022-12-13T11:34:30Z" name="Login_Functionality" finished-at="2022-12-13T11:34:32Z" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Functionality -->
+      </class> <!-- QDMS_TestCases.HomePage_Master -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
